@@ -11,7 +11,7 @@ function App() {
     <>
       
    <Header></Header>
-    <div className='md:flex'>
+    <div className='md:flex mx-auto text-center  max-w-6xl'>
     <Blogs></Blogs>
     <Bookmarks></Bookmarks>
     </div>
