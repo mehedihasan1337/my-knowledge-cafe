@@ -1,0 +1,39 @@
+[
+    {
+      "id": 201,
+      "cover":"../images/2.png",
+      "title": "Shadows of Tomorrow",
+      "author_img": "../images/boy1.png",
+      "post_date": "2024-09-28",
+      "reading_time": 6,
+      "hashtags": ["#future", "#adventure", "#sciencefiction"]
+    },
+    {
+      "id": 202,
+      "cover": "../images/1.png",
+      "title": "Beneath the Stars",
+      "author_img": "../images/boy2.png",
+      "post_date": "2024-08-19",
+      "reading_time": 9,
+      "hashtags": ["#romance", "#space", "#journey"]
+    },
+    {
+      "id": 203,
+      "cover": "../images/3.png",
+      "title": "Rise of the Forgotten",
+      "author_img": "../images/girl1.jpg",
+      "post_date": "2024-07-05",
+      "reading_time": 13,
+      "hashtags": ["#fantasy", "#mystery", "#epic"]
+    },
+    {
+      "id": 204,
+      "cover": "../images/4.png",
+      "title": "The Vanished Trail",
+      "author_img": "../images/girl2.jpg",
+      "post_date": "2024-06-20",
+      "reading_time": 10,
+      "hashtags": ["#thriller", "#suspense", "#lost"]
+    }
+]
+  
