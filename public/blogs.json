@@ -1,9 +1,9 @@
 [
     {
       "id": 201,
-      "cover":"../images/1.jpg",
+      "cover":"https://i.ibb.co.com/5kKZF2N/1.jpg",
       "title": "How to get your first job as a self-taught programmer",
-      "author_img": "../images/boy1.png",
+      "author_img": "https://i.ibb.co.com/VSHg7jz/boy1.png",
       "post_date": "2024-09-28",
       "author": " Md Mehedi Hasan",
       "reading_time": 6,
@@ -11,9 +11,9 @@
     },
     {
       "id": 202,
-      "cover": "../images/2.png",
+      "cover": "https://i.ibb.co.com/ypH9qjX/2.png",
       "title": "How to get your first job as a self-taught programmer",
-      "author_img": "../images/boy2.png",
+      "author_img": "https://i.ibb.co.com/1frGMbV/boy2.jpg",
       "post_date": "2024-08-19",
       "author": " Md Masud Rana",
       "reading_time": 9,
@@ -21,9 +21,9 @@
     },
     {
       "id": 203,
-      "cover": "../images/3.png",
+      "cover": "https://i.ibb.co.com/cJH78Lv/3.png",
       "title": "How to get your first job as a self-taught programmer",
-      "author_img": "../images/girl1.jpg",
+      "author_img": "https://i.ibb.co.com/q71DsZ5/girl1.jpg",
       "post_date": "2024-07-05",
       "author": " Md farhan",
       "reading_time": 13,
@@ -31,9 +31,9 @@
     },
     {
       "id": 204,
-      "cover": "../images/4.jpg",
+      "cover": "https://i.ibb.co.com/djzXm8b/4.jpg",
       "title": "How to get your first job as a self-taught programmer",
-      "author_img": "../images/girl2.jpg",
+      "author_img": "https://i.ibb.co.com/8bg3bCK/girl2.jpg",
       "post_date": "2024-06-20",
       "author": " Ankon ",
       "reading_time": 10,
